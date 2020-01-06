@@ -11,8 +11,8 @@ github_repo: "https://github.com/BakaQR/bakaqr.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/605.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "喜欢玩游戏却又没什么天赋"
+sidebar-avatar: /img/picture - me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
